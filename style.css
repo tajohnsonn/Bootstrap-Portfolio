@@ -198,7 +198,7 @@ textarea {
 }
 
 textarea {
-  height: 200px;
+  height: 202px;
 }
 
 input[type="submit"] {
@@ -209,3 +209,5 @@ input[type="submit"] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/*end*/
