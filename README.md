@@ -1,2 +1,1 @@
-# Homework1
-Homework 1 assignment 
+In this assignment I will be using the Bootstrap CSS Framework to create a mobile responsive portfolio. 
