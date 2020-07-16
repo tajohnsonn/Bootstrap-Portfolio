@@ -66,12 +66,13 @@ li a {
   padding: 50px;
   overflow: hidden;
 }
+
+.main hr {
+  border-top: 2px solid #cccccc;
+}
 .main h1 {
   color: #4aaaa5;
   font-family: "Georgia", Times, Times New Roman, serif;
-}
-.main hr {
-  border-top: 2px solid #cccccc;
 }
 
 /* footer */
