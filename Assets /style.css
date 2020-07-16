@@ -12,8 +12,8 @@ html {
 }
 
 body {
-  background: url("/Users/taylorj/Documents/Homework/Bootstrap Portfolio/Assets /images/background image.jpg")
-    no-repeat center center fixed;
+  background-image: url("./Assets /Images/background image .jpg") no-repeat
+    center center fixed;
   background-size: cover;
   padding: 0;
   margin: 0;
