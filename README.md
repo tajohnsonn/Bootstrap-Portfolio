@@ -9,4 +9,4 @@ This Portfolio was created with Bootstrap CSS Framework to create a mobile respo
 
 
 
-Check it out here: https://tajohnsonn.github.io/Bootstrap-Portfolio/
+Check it out here: https://tajohnsonn.github.io/BootstrapPortfolio/
